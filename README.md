@@ -7,9 +7,11 @@ Often the changes to these inputs are indistinguishable to humans, but still cau
 
 We can include these adversarial images back into our train set to help improve model perforamnce. 
 
-In this notebook we demo searching for adversarial examples in two different networks. The first is a binary classifier with two features and the other is a multi-class classifier on the infamous MNIST dataset. 
+In this notebook we explore searching for adversarial examples with the [Z3 SMT Solver](https://ericpony.github.io/z3py-tutorial/guide-examples.html) as the core of our engine. The notebook includes two demos: 
+1. Simple binary classifier with two features
+2. Multi-class classifier on the infamous [MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database). 
 
-This project is for McGill's Fall 2021 COMP597 Final Project. 
+This project is for McGill University's Fall 2021 COMP597 Final Project. 
 
 ## References
 
