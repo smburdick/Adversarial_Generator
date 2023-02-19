@@ -1,9 +1,9 @@
-numpy
-scipy
-matplotlib
 jupyter
-torch
+matplotlib
+numpy
 scikit-learn
-z3
+scipy
+torch
 torchvision
+z3
 z3-solver
