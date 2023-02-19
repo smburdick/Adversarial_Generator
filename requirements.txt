@@ -2,3 +2,8 @@ numpy
 scipy
 matplotlib
 jupyter
+torch
+scikit-learn
+z3
+torchvision
+z3-solver
